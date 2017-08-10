@@ -1,0 +1,57 @@
+student@ubuntu:~/Desktop/Dotan-Assembler$ ./assembler working notworking1 notworking2 notworking3
+
+File:working.as - Start reading file 
+
+File:working.as - Finish reading file first pass 
+File:working.as - Finish reading file second pass
+File:working.as - Finish writing files output
+
+File:notworking1.as - Start reading file 
+ERROR - Line number 1: wrong syntax
+ERROR - Line number 2: wrong syntax
+ERROR - line number 3: label name does not start with a letter
+ERROR - Line number 3: non-valid label in dynamic addressing
+ERROR - Line number 3: wrong operands after add
+ERROR - Line number 4: wrong syntax
+ERROR - line number 5: label name does not start with a letter
+ERROR - Line number 5: wrong syntax
+ERROR - line number 6: label name contains other character than only letters and numbers
+ERROR - Line number 6: wrong syntax
+ERROR - Line number 7: the addressing method is not valid for "lea" command 
+ERROR - Line number 8: wrong syntax
+ERROR - Line number 9: the addressing method is not valid for "red" command 
+ERROR - Line number 10: wrong syntax
+
+File:notworking1.as - Finish reading file first pass 
+
+File:notworking2.as - Start reading file 
+ERROR - Line number 1: wrong syntax
+ERROR - line number 3: label name does not start with a letter
+ERROR - Line number 3: the label after .extern is not valid
+ERROR - Line number 5: too many operands after command
+ERROR - Line number 8: wrong syntax after #
+ERROR - Line number 8: wrong operands after prn
+ERROR - Line number 9: wrong syntax
+ERROR - Line number 14: wrong syntax after .string
+ERROR - Line number 16: invalid data
+
+File:notworking2.as - Finish reading file first pass 
+
+File:notworking3.as - Start reading file 
+ERROR - Line number 5: wrong syntax within:"[]" in dynamic addressing
+ERROR - Line number 5: wrong operands after mov
+ERROR - Line number 6: the addressing method is not valid for "stop" command 
+ERROR - Line number 8: wrong syntax
+ERROR - Line number 9: wrong syntax
+ERROR - Line number 10: wrong syntax
+ERROR - Line number 11: wrong syntax within:"[]" in dynamic addressing
+ERROR - Line number 11: wrong operands after mov
+ERROR - Line number 12: wrong syntax
+ERROR - line number 13: label name does not start with a letter
+ERROR - Line number 13: non-valid label in dynamic addressing
+ERROR - Line number 13: wrong operands after add
+ERROR - Line number 15: wrong syntax
+ERROR - Line number 16: wrong syntax
+
+File:notworking3.as - Finish reading file first pass 
+
