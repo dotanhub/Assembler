@@ -1,3 +1,3 @@
-open зебшъ дчешс 2016б
-the final project is called "оимъ орзд 14"
+open Ч—Ч•Ч‘ЧЁЧЄ Ч”Ч§Ч•ЧЁЧЎ 2016Ч‘
+the final project is called "ЧћЧЧњЧЄ ЧћЧ Ч—Ч” 14"
 it is to long to describe it here.
