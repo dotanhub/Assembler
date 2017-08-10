@@ -1,2 +1,2 @@
 # Assembler
-a final Programming Lab course task
+a final project of Programming Lab course
